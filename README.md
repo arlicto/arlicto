@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning C language.<br>🎯 Goals: I want to be a Ai/Ml engineer. <br>.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning C language.<br>🎯 Goals: I want to be a Ai/Ml engineer. <br></p>
 
 ###
 
